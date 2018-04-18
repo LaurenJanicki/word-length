@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		89E134392087C396004CEFA5 /* word-length */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "word-length"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89E1343C2087C396004CEFA5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		89E134442087CB42004CEFA5 /* resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = resources; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		89E1343B2087C396004CEFA5 /* word-length */ = {
 			isa = PBXGroup;
 			children = (
+				89E134442087CB42004CEFA5 /* resources */,
 				89E1343C2087C396004CEFA5 /* main.m */,
 			);
 			path = "word-length";
